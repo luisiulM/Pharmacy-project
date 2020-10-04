@@ -1,0 +1,1692 @@
+##############################################
+Method used: Lasso; Number of folds: 5;Lambda: 0.001000
+The test average MSE is: 16.67538; the test average R^2-score is: 0.06
+The train average MSE is: 16.21432; the train average R^2-score is: 0.19
+The variance: 1073.72389
+The bias is: 77314.53764
+##############################################
+Method used: Lasso; Number of folds: 6;Lambda: 0.001000
+The test average MSE is: 16.82015; the test average R^2-score is: -0.18
+The train average MSE is: 16.23109; the train average R^2-score is: 0.19
+The variance: 1163.73848
+The bias is: 76895.50268
+##############################################
+Method used: Lasso; Number of folds: 7;Lambda: 0.001000
+The test average MSE is: 16.68743; the test average R^2-score is: -0.19
+The train average MSE is: 16.23613; the train average R^2-score is: 0.19
+The variance: 574.89366
+The bias is: 76477.07933
+##############################################
+Method used: Lasso; Number of folds: 8;Lambda: 0.001000
+The test average MSE is: 16.86756; the test average R^2-score is: -0.20
+The train average MSE is: 16.25348; the train average R^2-score is: 0.19
+The variance: 444.62905
+The bias is: 76477.07139
+##############################################
+Method used: Lasso; Number of folds: 9;Lambda: 0.001000
+The test average MSE is: 16.72161; the test average R^2-score is: 0.12
+The train average MSE is: 16.25084; the train average R^2-score is: 0.19
+The variance: 275.28691
+The bias is: 76492.07176
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.001000
+The test average MSE is: 17.87408; the test average R^2-score is: -0.12
+The train average MSE is: 16.25801; the train average R^2-score is: 0.19
+The variance: 389.36386
+The bias is: 76635.60547
+##############################################
+Method used: Lasso; Number of folds: 5;Lambda: 0.001000
+The test average MSE is: 415.70422; the test average R^2-score is: -0.06
+The train average MSE is: 270.93781; the train average R^2-score is: 0.46
+The variance: 18576455.02109
+The bias is: 1032725700.59822
+##############################################
+Method used: Lasso; Number of folds: 6;Lambda: 0.001000
+The test average MSE is: 417.75125; the test average R^2-score is: -1.10
+The train average MSE is: 273.86405; the train average R^2-score is: 0.45
+The variance: 12130405.01500
+The bias is: 1080911110.82397
+##############################################
+Method used: Lasso; Number of folds: 7;Lambda: 0.001000
+The test average MSE is: 434.18632; the test average R^2-score is: -0.61
+The train average MSE is: 273.45486; the train average R^2-score is: 0.45
+The variance: 27045469.54137
+The bias is: 1045232600.05169
+##############################################
+Method used: Lasso; Number of folds: 8;Lambda: 0.001000
+The test average MSE is: 419.71126; the test average R^2-score is: -0.52
+The train average MSE is: 275.46890; the train average R^2-score is: 0.45
+The variance: 24511882.42346
+The bias is: 1109735135.73186
+##############################################
+Method used: Lasso; Number of folds: 9;Lambda: 0.001000
+The test average MSE is: 397.85993; the test average R^2-score is: 0.12
+The train average MSE is: 277.09597; the train average R^2-score is: 0.45
+The variance: 9136313.98783
+The bias is: 1113148412.51170
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.001000
+The test average MSE is: 405.68120; the test average R^2-score is: -0.47
+The train average MSE is: 277.67394; the train average R^2-score is: 0.45
+The variance: 5718103.24735
+The bias is: 1096967645.38455
+##############################################
+Method used: Lasso; Number of folds: 5;Lambda: 0.001000
+The test average MSE is: 433.63428; the test average R^2-score is: -0.09
+The train average MSE is: 268.80226; the train average R^2-score is: 0.47
+The variance: 60298336.18503
+The bias is: 997985780.71639
+##############################################
+Method used: Lasso; Number of folds: 6;Lambda: 0.001000
+The test average MSE is: 424.34904; the test average R^2-score is: -0.11
+The train average MSE is: 273.01323; the train average R^2-score is: 0.46
+The variance: 4542776.07601
+The bias is: 1087055371.75631
+##############################################
+Method used: Lasso; Number of folds: 7;Lambda: 0.001000
+The test average MSE is: 413.93641; the test average R^2-score is: 0.05
+The train average MSE is: 275.25891; the train average R^2-score is: 0.45
+The variance: 11422133.73219
+The bias is: 1073976162.81508
+##############################################
+Method used: Lasso; Number of folds: 8;Lambda: 0.001000
+The test average MSE is: 404.60228; the test average R^2-score is: -0.90
+The train average MSE is: 276.39191; the train average R^2-score is: 0.45
+The variance: 12993077.51895
+The bias is: 1092347532.39843
+##############################################
+Method used: Lasso; Number of folds: 9;Lambda: 0.001000
+The test average MSE is: 388.52879; the test average R^2-score is: -0.01
+The train average MSE is: 277.74121; the train average R^2-score is: 0.45
+The variance: 14110678.60912
+The bias is: 1094027005.31699
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.001000
+The test average MSE is: 419.22195; the test average R^2-score is: -0.49
+The train average MSE is: 276.96761; the train average R^2-score is: 0.45
+The variance: 25223690.36688
+The bias is: 1100252022.94464
+##############################################
+Method used: Lasso; Number of folds: 5;Lambda: 0.001000
+The test average MSE is: 416.73686; the test average R^2-score is: -1.60
+The train average MSE is: 270.06018; the train average R^2-score is: 0.46
+The variance: 6275026.08452
+The bias is: 1014174810.47946
+##############################################
+Method used: Lasso; Number of folds: 6;Lambda: 0.001000
+The test average MSE is: 418.36899; the test average R^2-score is: -1.11
+The train average MSE is: 273.04781; the train average R^2-score is: 0.45
+The variance: 1853398.85457
+The bias is: 1011963306.79529
+##############################################
+Method used: Lasso; Number of folds: 7;Lambda: 0.001000
+The test average MSE is: 400.62202; the test average R^2-score is: -0.20
+The train average MSE is: 275.37513; the train average R^2-score is: 0.45
+The variance: 25010670.03929
+The bias is: 1110307352.74616
+##############################################
+Method used: Lasso; Number of folds: 8;Lambda: 0.001000
+The test average MSE is: 418.01123; the test average R^2-score is: -0.07
+The train average MSE is: 275.35774; the train average R^2-score is: 0.45
+The variance: 14084697.06751
+The bias is: 1060370677.82534
+##############################################
+Method used: Lasso; Number of folds: 9;Lambda: 0.001000
+The test average MSE is: 398.03965; the test average R^2-score is: -0.12
+The train average MSE is: 277.15798; the train average R^2-score is: 0.45
+The variance: 12731935.15303
+The bias is: 1092724162.05259
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.001000
+The test average MSE is: 412.87718; the test average R^2-score is: -0.88
+The train average MSE is: 277.24469; the train average R^2-score is: 0.45
+The variance: 22741685.76574
+The bias is: 1096718920.98216
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 2.30003; the test average R^2-score is: 0.51
+The train average MSE is: 2.17813; the train average R^2-score is: 0.59
+The variance: 0.00626
+The bias is: 2.18416
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.42131; the test average R^2-score is: 0.53
+The train average MSE is: 2.36897; the train average R^2-score is: 0.55
+The variance: 0.00277
+The bias is: 2.37212
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.42798; the test average R^2-score is: 0.52
+The train average MSE is: 2.36605; the train average R^2-score is: 0.55
+The variance: 1281.51246
+The bias is: 3466723.78048
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.56489; the test average R^2-score is: 0.69
+The train average MSE is: 1.50082; the train average R^2-score is: 0.71
+The variance: 0.00413
+The bias is: 1.50496
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 1.55128; the test average R^2-score is: 0.69
+The train average MSE is: 1.51007; the train average R^2-score is: 0.71
+The variance: 0.00244
+The bias is: 1.51255
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.25568; the test average R^2-score is: 0.55
+The train average MSE is: 2.23054; the train average R^2-score is: 0.58
+The variance: 152.34212
+The bias is: 1569891.48070
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.48112; the test average R^2-score is: 0.70
+The train average MSE is: 1.39269; the train average R^2-score is: 0.74
+The variance: 0.00383
+The bias is: 1.39627
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 1.46692; the test average R^2-score is: 0.71
+The train average MSE is: 1.40563; the train average R^2-score is: 0.73
+The variance: 0.00709
+The bias is: 1.40402
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.25885; the test average R^2-score is: 0.56
+The train average MSE is: 2.22813; the train average R^2-score is: 0.58
+The variance: 155.71587
+The bias is: 891634.69294
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.39516; the test average R^2-score is: 0.73
+The train average MSE is: 1.34384; the train average R^2-score is: 0.74
+The variance: 0.00315
+The bias is: 1.34698
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 380.46208; the test average R^2-score is: -65.54
+The train average MSE is: 377.72480; the train average R^2-score is: -71.66
+The variance: 295.47393
+The bias is: 82.65929
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.14059; the test average R^2-score is: 0.57
+The train average MSE is: 2.03942; the train average R^2-score is: 0.61
+The variance: 33784.90111
+The bias is: 52306.52134
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.42095; the test average R^2-score is: 0.72
+The train average MSE is: 1.34455; the train average R^2-score is: 0.74
+The variance: 0.00271
+The bias is: 1.34698
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.001000
+The test average MSE is: 60.08551; the test average R^2-score is: -9.49
+The train average MSE is: 45.25869; the train average R^2-score is: -7.78
+The variance: 41.52007
+The bias is: 5.21711
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.001000
+The test average MSE is: 2.12034; the test average R^2-score is: 0.58
+The train average MSE is: 2.04005; the train average R^2-score is: 0.61
+The variance: 47232.75258
+The bias is: 12335.22283
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.40390; the test average R^2-score is: 0.73
+The train average MSE is: 1.34319; the train average R^2-score is: 0.74
+The variance: 0.00372
+The bias is: 1.34698
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.100000
+The test average MSE is: 3.29976; the test average R^2-score is: 0.32
+The train average MSE is: 3.05525; the train average R^2-score is: 0.42
+The variance: 1.39340
+The bias is: 1.68632
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.100000
+The test average MSE is: 2.12954; the test average R^2-score is: 0.56
+The train average MSE is: 2.03200; the train average R^2-score is: 0.61
+The variance: 13758.19958
+The bias is: 3456.91504
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.41021; the test average R^2-score is: 0.73
+The train average MSE is: 1.34448; the train average R^2-score is: 0.74
+The variance: 0.00269
+The bias is: 1.34698
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 445.39846; the test average R^2-score is: -94.25
+The train average MSE is: 347.89401; the train average R^2-score is: -64.57
+The variance: 345.84139
+The bias is: 12.00128
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.12886; the test average R^2-score is: 0.57
+The train average MSE is: 2.04063; the train average R^2-score is: 0.61
+The variance: 93955.73524
+The bias is: 63455.89331
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.42283; the test average R^2-score is: 0.72
+The train average MSE is: 1.34327; the train average R^2-score is: 0.74
+The variance: 0.00403
+The bias is: 1.34699
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000010
+The test average MSE is: 25.44349; the test average R^2-score is: -4.10
+The train average MSE is: 22.95016; the train average R^2-score is: -3.43
+The variance: 21.75986
+The bias is: 1.46185
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000010
+The test average MSE is: 2.15186; the test average R^2-score is: 0.56
+The train average MSE is: 2.03925; the train average R^2-score is: 0.61
+The variance: 116940.75041
+The bias is: 61548.63283
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.41329; the test average R^2-score is: 0.72
+The train average MSE is: 1.34326; the train average R^2-score is: 0.74
+The variance: 0.00378
+The bias is: 1.34698
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.100000
+The test average MSE is: 1.85570; the test average R^2-score is: 0.63
+The train average MSE is: 1.71365; the train average R^2-score is: 0.67
+The variance: 0.36647
+The bias is: 1.35920
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.100000
+The test average MSE is: 2.07510; the test average R^2-score is: 0.60
+The train average MSE is: 2.03212; the train average R^2-score is: 0.61
+The variance: 16952.52491
+The bias is: 3464.17319
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.43286; the test average R^2-score is: 0.70
+The train average MSE is: 1.34259; the train average R^2-score is: 0.74
+The variance: 0.00475
+The bias is: 1.34698
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.010000
+The test average MSE is: 2.35284; the test average R^2-score is: 0.54
+The train average MSE is: 2.22440; the train average R^2-score is: 0.58
+The variance: 0.77521
+The bias is: 1.46274
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.010000
+The test average MSE is: 2.13257; the test average R^2-score is: 0.58
+The train average MSE is: 2.03873; the train average R^2-score is: 0.61
+The variance: 8496.40450
+The bias is: 6607.36630
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.43017; the test average R^2-score is: 0.72
+The train average MSE is: 1.34243; the train average R^2-score is: 0.75
+The variance: 0.00461
+The bias is: 1.34698
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.010000
+The test average MSE is: 6.69048; the test average R^2-score is: -0.32
+The train average MSE is: 5.56969; the train average R^2-score is: -0.06
+The variance: 4.12616
+The bias is: 1.55686
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.010000
+The test average MSE is: 2.15899; the test average R^2-score is: 0.58
+The train average MSE is: 2.03771; the train average R^2-score is: 0.61
+The variance: 4668.70600
+The bias is: 6401.58116
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.41724; the test average R^2-score is: 0.72
+The train average MSE is: 1.34375; the train average R^2-score is: 0.74
+The variance: 0.00333
+The bias is: 1.34698
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.001000
+The test average MSE is: 22.32575; the test average R^2-score is: -3.05
+The train average MSE is: 19.17368; the train average R^2-score is: -2.67
+The variance: 17.29004
+The bias is: 2.14210
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.001000
+The test average MSE is: 2.11251; the test average R^2-score is: 0.59
+The train average MSE is: 2.04105; the train average R^2-score is: 0.61
+The variance: 101240.57312
+The bias is: 19219.51711
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.43714; the test average R^2-score is: 0.69
+The train average MSE is: 1.34284; the train average R^2-score is: 0.74
+The variance: 0.00433
+The bias is: 1.34698
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.010000
+The test average MSE is: 24.05268; the test average R^2-score is: -3.54
+The train average MSE is: 28.01177; the train average R^2-score is: -4.33
+The variance: 24.13123
+The bias is: 3.47469
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.010000
+The test average MSE is: 2.12241; the test average R^2-score is: 0.58
+The train average MSE is: 2.03939; the train average R^2-score is: 0.61
+The variance: 9126.61546
+The bias is: 5936.94290
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.36645; the test average R^2-score is: 0.72
+The train average MSE is: 1.26216; the train average R^2-score is: 0.76
+The variance: 0.00557
+The bias is: 1.26748
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.010000
+The test average MSE is: 900.75669; the test average R^2-score is: -172.81
+The train average MSE is: 1275.54789; the train average R^2-score is: -240.84
+The variance: 1129.03186
+The bias is: 108.11270
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.010000
+The test average MSE is: 1.99091; the test average R^2-score is: 0.61
+The train average MSE is: 1.92558; the train average R^2-score is: 0.63
+The variance: 2190.24078
+The bias is: 282686.42912
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.35393; the test average R^2-score is: 0.73
+The train average MSE is: 1.26232; the train average R^2-score is: 0.76
+The variance: 0.00556
+The bias is: 1.26749
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.001000
+The test average MSE is: 298814.40519; the test average R^2-score is: -51888.54
+The train average MSE is: 202210.18442; the train average R^2-score is: -38861.57
+The variance: 191878.09164
+The bias is: 20233.07003
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.001000
+The test average MSE is: 2.00962; the test average R^2-score is: 0.59
+The train average MSE is: 1.92705; the train average R^2-score is: 0.63
+The variance: 57314.07124
+The bias is: 1133969.79809
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.33539; the test average R^2-score is: 0.74
+The train average MSE is: 1.26323; the train average R^2-score is: 0.76
+The variance: 0.00432
+The bias is: 1.26748
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.100000
+The test average MSE is: 49.77270; the test average R^2-score is: -9.55
+The train average MSE is: 50.60127; the train average R^2-score is: -8.64
+The variance: 44.39761
+The bias is: 6.11649
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.100000
+The test average MSE is: 1.98088; the test average R^2-score is: 0.59
+The train average MSE is: 1.90245; the train average R^2-score is: 0.64
+The variance: 2753.70274
+The bias is: 258042.02446
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.34866; the test average R^2-score is: 0.73
+The train average MSE is: 1.26357; the train average R^2-score is: 0.76
+The variance: 0.00425
+The bias is: 1.26748
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.100000
+The test average MSE is: 520.39597; the test average R^2-score is: -104.57
+The train average MSE is: 546.79690; the train average R^2-score is: -103.12
+The variance: 506.10043
+The bias is: 37.87452
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.100000
+The test average MSE is: 1.94873; the test average R^2-score is: 0.62
+The train average MSE is: 1.90257; the train average R^2-score is: 0.64
+The variance: 5969.58347
+The bias is: 256651.02164
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.36408; the test average R^2-score is: 0.73
+The train average MSE is: 1.26346; the train average R^2-score is: 0.76
+The variance: 0.00434
+The bias is: 1.26748
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.100000
+The test average MSE is: 482.14177; the test average R^2-score is: -87.41
+The train average MSE is: 466.29531; the train average R^2-score is: -88.18
+The variance: 423.58306
+The bias is: 44.30033
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.100000
+The test average MSE is: 1.96431; the test average R^2-score is: 0.62
+The train average MSE is: 1.90304; the train average R^2-score is: 0.64
+The variance: 4123.28690
+The bias is: 257857.32586
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.36282; the test average R^2-score is: 0.72
+The train average MSE is: 1.26240; the train average R^2-score is: 0.76
+The variance: 0.00528
+The bias is: 1.26748
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 125.82804; the test average R^2-score is: -21.47
+The train average MSE is: 150.82062; the train average R^2-score is: -28.19
+The variance: 129.46860
+The bias is: 18.81063
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.00880; the test average R^2-score is: 0.61
+The train average MSE is: 1.92711; the train average R^2-score is: 0.63
+The variance: 53992.79839
+The bias is: 1835099.28159
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.35279; the test average R^2-score is: 0.72
+The train average MSE is: 1.26283; the train average R^2-score is: 0.76
+The variance: 0.00502
+The bias is: 1.26749
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 239.59322; the test average R^2-score is: -45.46
+The train average MSE is: 252.86857; the train average R^2-score is: -47.13
+The variance: 234.58815
+The bias is: 16.45941
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.00926; the test average R^2-score is: 0.60
+The train average MSE is: 1.92722; the train average R^2-score is: 0.63
+The variance: 46573.50473
+The bias is: 1850792.50937
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.33452; the test average R^2-score is: 0.74
+The train average MSE is: 1.12642; the train average R^2-score is: 0.79
+The variance: 0.01037
+The bias is: 1.13473
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2274.61808; the test average R^2-score is: -434.10
+The train average MSE is: 2278.97971; the train average R^2-score is: -431.47
+The variance: 1991.13778
+The bias is: 287.39518
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 1.93696; the test average R^2-score is: 0.62
+The train average MSE is: 1.75792; the train average R^2-score is: 0.67
+The variance: 34686.38773
+The bias is: 2126369.20718
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.29883; the test average R^2-score is: 0.75
+The train average MSE is: 1.03327; the train average R^2-score is: 0.80
+The variance: 0.01384
+The bias is: 1.04337
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 24.12608; the test average R^2-score is: -4.83
+The train average MSE is: 23.92272; the train average R^2-score is: -3.50
+The variance: 19.85195
+The bias is: 4.08482
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.08803; the test average R^2-score is: 0.59
+The train average MSE is: 1.70878; the train average R^2-score is: 0.68
+The variance: 50186.08872
+The bias is: 2423640.85318
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1480.39811; the test average R^2-score is: -19.08
+The train average MSE is: 0.00000; the train average R^2-score is: 1.00
+The variance: 133.08976
+The bias is: 14.78775
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 5023965765.62542; the test average R^2-score is: -20732693.62
+The train average MSE is: 18967467.16631; the train average R^2-score is: -36745.25
+The variance: 477989031.53643
+The bias is: 52779663.71648
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 1311.59380; the test average R^2-score is: -12.14
+The train average MSE is: 0.02996; the train average R^2-score is: 1.00
+The variance: 152430.75739
+The bias is: 8919428.23629
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1396.80676; the test average R^2-score is: -9.53
+The train average MSE is: 0.00000; the train average R^2-score is: 1.00
+The variance: 125.38166
+The bias is: 13.93130
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 32572749286.83039; the test average R^2-score is: -164047385.23
+The train average MSE is: 447499460.65749; the train average R^2-score is: -924449.61
+The variance: 3371939978.98331
+The bias is: 369531709.64388
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 1369.09612; the test average R^2-score is: -33.92
+The train average MSE is: 0.01216; the train average R^2-score is: 1.00
+The variance: 102177.88638
+The bias is: 8706350.73187
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1439.85082; the test average R^2-score is: -17.48
+The train average MSE is: 0.00000; the train average R^2-score is: 1.00
+The variance: 128.67349
+The bias is: 14.29705
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 1171342323.09654; the test average R^2-score is: -7078021.06
+The train average MSE is: 6187993.56059; the train average R^2-score is: -12319.97
+The variance: 112777365.63604
+The bias is: 12354187.68723
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 1290.84402; the test average R^2-score is: -6.14
+The train average MSE is: 0.03261; the train average R^2-score is: 1.00
+The variance: 147804.08499
+The bias is: 9049609.61734
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1454.15416; the test average R^2-score is: -9.28
+The train average MSE is: 0.00000; the train average R^2-score is: 1.00
+The variance: 131.48990
+The bias is: 14.60999
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 46615884504.57753; the test average R^2-score is: -439861301.68
+The train average MSE is: 62765367.16537; the train average R^2-score is: -115700.63
+The variance: 4336133845.35449
+The bias is: 489755827.98925
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 1347.86245; the test average R^2-score is: -7.53
+The train average MSE is: 0.01335; the train average R^2-score is: 1.00
+The variance: 69123.74516
+The bias is: 8621627.58116
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1429.95855; the test average R^2-score is: -10.60
+The train average MSE is: 0.00000; the train average R^2-score is: 1.00
+The variance: 127.91643
+The bias is: 14.21294
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 451550411.24334; the test average R^2-score is: -15461716.66
+The train average MSE is: 4653263.93310; the train average R^2-score is: -10171.99
+The variance: 45129240.88670
+The bias is: 5135808.15070
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 1208.54821; the test average R^2-score is: -27.43
+The train average MSE is: 0.01669; the train average R^2-score is: 1.00
+The variance: 98659.73166
+The bias is: 9318020.57584
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.31087; the test average R^2-score is: 0.74
+The train average MSE is: 1.03161; the train average R^2-score is: 0.80
+The variance: 0.01541
+The bias is: 1.04367
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 24697.43323; the test average R^2-score is: -4589.52
+The train average MSE is: 25022.37589; the train average R^2-score is: -4762.71
+The variance: 22644.03229
+The bias is: 2345.02639
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.04772; the test average R^2-score is: 0.60
+The train average MSE is: 1.71020; the train average R^2-score is: 0.68
+The variance: 36213.91232
+The bias is: 2453790.55565
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.40848; the test average R^2-score is: 0.72
+The train average MSE is: 1.00797; the train average R^2-score is: 0.81
+The variance: 0.02275
+The bias is: 1.02543
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 64.52650; the test average R^2-score is: -10.77
+The train average MSE is: 77.04448; the train average R^2-score is: -13.77
+The variance: 69.58349
+The bias is: 6.16728
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.06301; the test average R^2-score is: 0.60
+The train average MSE is: 1.65074; the train average R^2-score is: 0.69
+The variance: 20488.43727
+The bias is: 2038159.16485
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.43530; the test average R^2-score is: 0.71
+The train average MSE is: 1.34221; the train average R^2-score is: 0.74
+The variance: 0.00489
+The bias is: 1.34698
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 72.56227; the test average R^2-score is: -12.53
+The train average MSE is: 88.69591; the train average R^2-score is: -16.00
+The variance: 77.53345
+The bias is: 9.52009
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.12829; the test average R^2-score is: 0.56
+The train average MSE is: 2.04073; the train average R^2-score is: 0.61
+The variance: 94684.52421
+The bias is: 57405.66221
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 2.53574; the test average R^2-score is: 0.51
+The train average MSE is: 0.93600; the train average R^2-score is: 0.82
+The variance: 0.16983
+The bias is: 0.92510
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 369.64027; the test average R^2-score is: -67.30
+The train average MSE is: 394.84317; the train average R^2-score is: -74.50
+The variance: 389.10943
+The bias is: 3.14651
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.79386; the test average R^2-score is: 0.44
+The train average MSE is: 1.24762; the train average R^2-score is: 0.76
+The variance: 13483.61504
+The bias is: 514696.42742
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 2.31957; the test average R^2-score is: 0.54
+The train average MSE is: 1.07780; the train average R^2-score is: 0.80
+The variance: 0.12585
+The bias is: 1.07898
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 127.82836; the test average R^2-score is: -20.97
+The train average MSE is: 121.38629; the train average R^2-score is: -22.30
+The variance: 97.01760
+The bias is: 24.84904
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.49436; the test average R^2-score is: 0.51
+The train average MSE is: 1.35973; the train average R^2-score is: 0.74
+The variance: 51062.70350
+The bias is: 631665.44159
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.86811; the test average R^2-score is: 0.63
+The train average MSE is: 0.96761; the train average R^2-score is: 0.82
+The variance: 0.13596
+The bias is: 0.92209
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 211.78352; the test average R^2-score is: -48.06
+The train average MSE is: 250.89600; the train average R^2-score is: -45.92
+The variance: 219.21555
+The bias is: 27.67248
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.47766; the test average R^2-score is: 0.50
+The train average MSE is: 1.43502; the train average R^2-score is: 0.73
+The variance: 17371.79170
+The bias is: 672514.10313
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.49840; the test average R^2-score is: 0.68
+The train average MSE is: 0.88652; the train average R^2-score is: 0.83
+The variance: 0.03721
+The bias is: 0.91014
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 80636.15550; the test average R^2-score is: -18595.10
+The train average MSE is: 39016.05982; the train average R^2-score is: -7296.69
+The variance: 39094.39089
+The bias is: 4187.24848
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.29499; the test average R^2-score is: 0.55
+The train average MSE is: 1.52099; the train average R^2-score is: 0.71
+The variance: 35378.55536
+The bias is: 1115535.14104
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.48662; the test average R^2-score is: 0.71
+The train average MSE is: 0.94841; the train average R^2-score is: 0.82
+The variance: 0.03077
+The bias is: 0.96919
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 135.35635; the test average R^2-score is: -25.35
+The train average MSE is: 146.41924; the train average R^2-score is: -26.76
+The variance: 140.05172
+The bias is: 5.21216
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.16686; the test average R^2-score is: 0.56
+The train average MSE is: 1.60360; the train average R^2-score is: 0.70
+The variance: 61551.75181
+The bias is: 1532984.16772
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.42268; the test average R^2-score is: 0.71
+The train average MSE is: 1.00788; the train average R^2-score is: 0.81
+The variance: 0.02438
+The bias is: 1.02591
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 147.91800; the test average R^2-score is: -27.08
+The train average MSE is: 171.25656; the train average R^2-score is: -31.61
+The variance: 159.66788
+The bias is: 9.19801
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 1.98678; the test average R^2-score is: 0.61
+The train average MSE is: 1.65405; the train average R^2-score is: 0.69
+The variance: 23369.42863
+The bias is: 2063474.85610
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.29480; the test average R^2-score is: 0.74
+The train average MSE is: 1.03214; the train average R^2-score is: 0.80
+The variance: 0.01448
+The bias is: 1.04336
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 316.32440; the test average R^2-score is: -60.49
+The train average MSE is: 339.69341; the train average R^2-score is: -63.42
+The variance: 293.92029
+The bias is: 43.38360
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.08891; the test average R^2-score is: 0.59
+The train average MSE is: 1.71015; the train average R^2-score is: 0.68
+The variance: 55562.93320
+The bias is: 2470305.43996
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.30977; the test average R^2-score is: 0.74
+The train average MSE is: 1.12770; the train average R^2-score is: 0.79
+The variance: 0.01003
+The bias is: 1.13514
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 254.26678; the test average R^2-score is: -48.82
+The train average MSE is: 220.26392; the train average R^2-score is: -40.70
+The variance: 219.22089
+The bias is: 4.53084
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 1.94440; the test average R^2-score is: 0.62
+The train average MSE is: 1.75667; the train average R^2-score is: 0.67
+The variance: 121633.48056
+The bias is: 2150973.33862
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.34986; the test average R^2-score is: 0.72
+The train average MSE is: 1.18267; the train average R^2-score is: 0.78
+The variance: 0.00820
+The bias is: 1.19030
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 384.54837; the test average R^2-score is: -72.68
+The train average MSE is: 371.31575; the train average R^2-score is: -69.47
+The variance: 338.23642
+The bias is: 34.44456
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 1.94550; the test average R^2-score is: 0.62
+The train average MSE is: 1.82013; the train average R^2-score is: 0.65
+The variance: 43916.57056
+The bias is: 1986126.48189
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.39021; the test average R^2-score is: 0.73
+The train average MSE is: 0.94971; the train average R^2-score is: 0.82
+The variance: 0.02519
+The bias is: 0.96903
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 563.47281; the test average R^2-score is: -100.91
+The train average MSE is: 584.09052; the train average R^2-score is: -110.97
+The variance: 503.65863
+The bias is: 78.31509
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.16679; the test average R^2-score is: 0.56
+The train average MSE is: 1.60365; the train average R^2-score is: 0.70
+The variance: 27747.42903
+The bias is: 1530994.40248
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.44436; the test average R^2-score is: 0.72
+The train average MSE is: 0.94917; the train average R^2-score is: 0.82
+The variance: 0.02995
+The bias is: 0.96887
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 565.53199; the test average R^2-score is: -107.72
+The train average MSE is: 516.47375; the train average R^2-score is: -96.80
+The variance: 457.29455
+The bias is: 64.20875
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.21771; the test average R^2-score is: 0.57
+The train average MSE is: 1.60104; the train average R^2-score is: 0.70
+The variance: 30264.14520
+The bias is: 1492369.34491
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.37662; the test average R^2-score is: 0.72
+The train average MSE is: 1.00974; the train average R^2-score is: 0.81
+The variance: 0.02123
+The bias is: 1.02512
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 1031.25960; the test average R^2-score is: -218.26
+The train average MSE is: 1061.68774; the train average R^2-score is: -199.12
+The variance: 1029.42466
+The bias is: 29.28895
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.06990; the test average R^2-score is: 0.59
+The train average MSE is: 1.65073; the train average R^2-score is: 0.69
+The variance: 14569.44902
+The bias is: 2015365.64393
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.40586; the test average R^2-score is: 0.72
+The train average MSE is: 1.00897; the train average R^2-score is: 0.81
+The variance: 0.02342
+The bias is: 1.02497
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 15.90859; the test average R^2-score is: -1.92
+The train average MSE is: 14.97154; the train average R^2-score is: -1.88
+The variance: 13.92754
+The bias is: 1.14435
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 1.98447; the test average R^2-score is: 0.61
+The train average MSE is: 1.65404; the train average R^2-score is: 0.69
+The variance: 85341.19609
+The bias is: 2063383.07115
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.45798; the test average R^2-score is: 0.71
+The train average MSE is: 0.94846; the train average R^2-score is: 0.82
+The variance: 0.02948
+The bias is: 0.96911
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 80.18565; the test average R^2-score is: -16.31
+The train average MSE is: 88.04786; the train average R^2-score is: -15.62
+The variance: 75.99660
+The bias is: 11.23702
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.17816; the test average R^2-score is: 0.55
+The train average MSE is: 1.60406; the train average R^2-score is: 0.70
+The variance: 60273.79133
+The bias is: 1550169.89247
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.42594; the test average R^2-score is: 0.71
+The train average MSE is: 0.94860; the train average R^2-score is: 0.82
+The variance: 0.02884
+The bias is: 0.96886
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 318.76504; the test average R^2-score is: -66.55
+The train average MSE is: 329.06814; the train average R^2-score is: -61.15
+The variance: 318.58715
+The bias is: 9.59931
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.18764; the test average R^2-score is: 0.57
+The train average MSE is: 1.60427; the train average R^2-score is: 0.70
+The variance: 45011.45776
+The bias is: 1527986.03416
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.66164; the test average R^2-score is: 0.77
+The train average MSE is: 1.03606; the train average R^2-score is: 0.87
+The variance: 0.05062
+The bias is: 1.04890
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 4319.82088; the test average R^2-score is: -606.70
+The train average MSE is: 4166.24514; the train average R^2-score is: -537.20
+The variance: 3833.11779
+The bias is: 345.50160
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.78476; the test average R^2-score is: 0.63
+The train average MSE is: 2.04009; the train average R^2-score is: 0.74
+The variance: 81363.05925
+The bias is: 9146089.54622
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.95704; the test average R^2-score is: 0.74
+The train average MSE is: 1.85664; the train average R^2-score is: 0.76
+The variance: 0.00444
+The bias is: 1.86075
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.05649; the test average R^2-score is: 0.73
+The train average MSE is: 1.95048; the train average R^2-score is: 0.75
+The variance: 0.00589
+The bias is: 1.95641
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.79483; the test average R^2-score is: 0.63
+The train average MSE is: 2.68561; the train average R^2-score is: 0.65
+The variance: 4122.26215
+The bias is: 3947163.48867
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.81890; the test average R^2-score is: 0.76
+The train average MSE is: 1.70723; the train average R^2-score is: 0.78
+The variance: 0.00564
+The bias is: 1.71254
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 1.84477; the test average R^2-score is: 0.75
+The train average MSE is: 1.70891; the train average R^2-score is: 0.78
+The variance: 0.00901
+The bias is: 1.71235
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.73747; the test average R^2-score is: 0.63
+The train average MSE is: 2.62754; the train average R^2-score is: 0.66
+The variance: 66949.37288
+The bias is: 8091814.39019
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.80879; the test average R^2-score is: 0.76
+The train average MSE is: 1.64946; the train average R^2-score is: 0.79
+The variance: 0.00880
+The bias is: 1.65744
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 1605.62081; the test average R^2-score is: -183.86
+The train average MSE is: 1525.62420; the train average R^2-score is: -199.65
+The variance: 1417.00447
+The bias is: 116.56742
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.68423; the test average R^2-score is: 0.64
+The train average MSE is: 2.58565; the train average R^2-score is: 0.67
+The variance: 108037.85867
+The bias is: 13775206.70720
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.69405; the test average R^2-score is: 0.78
+The train average MSE is: 1.52772; the train average R^2-score is: 0.80
+The variance: 0.00836
+The bias is: 1.53524
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2145.85192; the test average R^2-score is: -277.55
+The train average MSE is: 2291.90482; the train average R^2-score is: -295.68
+The variance: 2214.81804
+The bias is: 61.71692
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.61202; the test average R^2-score is: 0.65
+The train average MSE is: 2.51478; the train average R^2-score is: 0.67
+The variance: 79408.62188
+The bias is: 12973964.67351
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.53467; the test average R^2-score is: 0.78
+The train average MSE is: 1.35115; the train average R^2-score is: 0.82
+The variance: 0.00914
+The bias is: 1.35961
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 295.20679; the test average R^2-score is: -34.97
+The train average MSE is: 230.12037; the train average R^2-score is: -29.00
+The variance: 223.15044
+The bias is: 12.49957
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.62820; the test average R^2-score is: 0.65
+The train average MSE is: 2.39864; the train average R^2-score is: 0.69
+The variance: 40575.88295
+The bias is: 12926641.84111
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.62490; the test average R^2-score is: 0.78
+The train average MSE is: 1.29747; the train average R^2-score is: 0.83
+The variance: 0.01847
+The bias is: 1.31122
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 515.47492; the test average R^2-score is: -74.34
+The train average MSE is: 431.51404; the train average R^2-score is: -54.24
+The variance: 412.45998
+The bias is: 27.66595
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.60701; the test average R^2-score is: 0.65
+The train average MSE is: 2.30226; the train average R^2-score is: 0.70
+The variance: 37938.22259
+The bias is: 13241874.80357
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.52996; the test average R^2-score is: 0.79
+The train average MSE is: 1.21463; the train average R^2-score is: 0.84
+The variance: 0.01870
+The bias is: 1.22816
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 105.57274; the test average R^2-score is: -12.43
+The train average MSE is: 112.69474; the train average R^2-score is: -13.67
+The variance: 109.42312
+The bias is: 2.53298
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.61788; the test average R^2-score is: 0.65
+The train average MSE is: 2.22496; the train average R^2-score is: 0.71
+The variance: 149601.94043
+The bias is: 11834238.70389
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.60913; the test average R^2-score is: 0.78
+The train average MSE is: 1.12544; the train average R^2-score is: 0.85
+The variance: 0.03426
+The bias is: 1.13963
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 33.94845; the test average R^2-score is: -3.77
+The train average MSE is: 34.45214; the train average R^2-score is: -3.44
+The variance: 31.88981
+The bias is: 2.51198
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.71234; the test average R^2-score is: 0.63
+The train average MSE is: 2.12436; the train average R^2-score is: 0.72
+The variance: 61593.28272
+The bias is: 8450458.00984
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.62099; the test average R^2-score is: 0.79
+The train average MSE is: 1.04039; the train average R^2-score is: 0.87
+The variance: 0.04507
+The bias is: 1.05092
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 1050.82997; the test average R^2-score is: -131.95
+The train average MSE is: 1042.26182; the train average R^2-score is: -134.62
+The variance: 961.18203
+The bias is: 81.97082
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.79466; the test average R^2-score is: 0.63
+The train average MSE is: 2.04007; the train average R^2-score is: 0.74
+The variance: 59798.96332
+The bias is: 9187251.21065
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.58373; the test average R^2-score is: 0.79
+The train average MSE is: 0.97337; the train average R^2-score is: 0.87
+The variance: 0.04809
+The bias is: 0.98716
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 69.21131; the test average R^2-score is: -8.28
+The train average MSE is: 78.31399; the train average R^2-score is: -9.16
+The variance: 67.47940
+The bias is: 9.90532
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.97955; the test average R^2-score is: 0.61
+The train average MSE is: 1.91991; the train average R^2-score is: 0.75
+The variance: 33526.85800
+The bias is: 7635685.76148
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 2.08773; the test average R^2-score is: 0.72
+The train average MSE is: 0.78294; the train average R^2-score is: 0.90
+The variance: 0.13485
+The bias is: 0.77823
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 224.97036; the test average R^2-score is: -27.99
+The train average MSE is: 235.90998; the train average R^2-score is: -29.58
+The variance: 223.51998
+The bias is: 11.26563
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 3.70085; the test average R^2-score is: 0.52
+The train average MSE is: 1.58286; the train average R^2-score is: 0.80
+The variance: 12995.71488
+The bias is: 3065814.55699
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.55629; the test average R^2-score is: 0.79
+The train average MSE is: 1.12714; the train average R^2-score is: 0.85
+The variance: 0.02631
+The bias is: 1.14312
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 51.22407; the test average R^2-score is: -6.08
+The train average MSE is: 49.75745; the train average R^2-score is: -5.42
+The variance: 46.33512
+The bias is: 3.57282
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.71380; the test average R^2-score is: 0.65
+The train average MSE is: 2.12481; the train average R^2-score is: 0.72
+The variance: 140855.30895
+The bias is: 8518874.45275
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.69521; the test average R^2-score is: 0.77
+The train average MSE is: 1.03449; the train average R^2-score is: 0.87
+The variance: 0.05080
+The bias is: 1.04825
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 726.13308; the test average R^2-score is: -83.88
+The train average MSE is: 545.71983; the train average R^2-score is: -70.52
+The variance: 499.85059
+The bias is: 64.30844
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.86219; the test average R^2-score is: 0.62
+The train average MSE is: 2.03870; the train average R^2-score is: 0.74
+The variance: 49152.07747
+The bias is: 9077551.73634
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.57891; the test average R^2-score is: 0.79
+The train average MSE is: 1.21118; the train average R^2-score is: 0.84
+The variance: 0.02206
+The bias is: 1.22656
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 903.67169; the test average R^2-score is: -115.81
+The train average MSE is: 921.83924; the train average R^2-score is: -119.80
+The variance: 780.15714
+The bias is: 139.82110
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.70127; the test average R^2-score is: 0.64
+The train average MSE is: 2.22138; the train average R^2-score is: 0.71
+The variance: 66766.45565
+The bias is: 11793965.89872
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.57429; the test average R^2-score is: 0.79
+The train average MSE is: 1.29892; the train average R^2-score is: 0.83
+The variance: 0.01628
+The bias is: 1.31119
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 92.62529; the test average R^2-score is: -10.95
+The train average MSE is: 92.01238; the train average R^2-score is: -10.93
+The variance: 89.80474
+The bias is: 2.26528
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.60059; the test average R^2-score is: 0.65
+The train average MSE is: 2.30242; the train average R^2-score is: 0.70
+The variance: 110546.46546
+The bias is: 13339273.25401
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.56159; the test average R^2-score is: 0.79
+The train average MSE is: 1.21176; the train average R^2-score is: 0.84
+The variance: 0.02167
+The bias is: 1.22326
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 27.48150; the test average R^2-score is: -2.72
+The train average MSE is: 24.11880; the train average R^2-score is: -2.12
+The variance: 19.60147
+The bias is: 4.89035
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.59993; the test average R^2-score is: 0.65
+The train average MSE is: 2.22525; the train average R^2-score is: 0.71
+The variance: 29084.29546
+The bias is: 11741969.79727
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.58670; the test average R^2-score is: 0.78
+The train average MSE is: 1.03355; the train average R^2-score is: 0.87
+The variance: 0.03972
+The bias is: 1.05052
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 192.53269; the test average R^2-score is: -24.23
+The train average MSE is: 209.55713; the train average R^2-score is: -26.18
+The variance: 190.01839
+The bias is: 17.79402
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.75322; the test average R^2-score is: 0.63
+The train average MSE is: 2.04088; the train average R^2-score is: 0.74
+The variance: 55224.15565
+The bias is: 9103033.24782
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.57499; the test average R^2-score is: 0.79
+The train average MSE is: 1.21323; the train average R^2-score is: 0.84
+The variance: 0.02164
+The bias is: 1.22863
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 717.55672; the test average R^2-score is: -88.32
+The train average MSE is: 932.44054; the train average R^2-score is: -120.32
+The variance: 836.44493
+The bias is: 73.96732
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.60234; the test average R^2-score is: 0.65
+The train average MSE is: 2.22598; the train average R^2-score is: 0.71
+The variance: 52379.63792
+The bias is: 11792724.34729
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.55750; the test average R^2-score is: 0.80
+The train average MSE is: 1.35660; the train average R^2-score is: 0.82
+The variance: 0.01779
+The bias is: 1.36031
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 14.21621; the test average R^2-score is: -0.88
+The train average MSE is: 14.25158; the train average R^2-score is: -0.85
+The variance: 11.07424
+The bias is: 3.16986
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.63554; the test average R^2-score is: 0.65
+The train average MSE is: 2.39928; the train average R^2-score is: 0.69
+The variance: 33914.24544
+The bias is: 12890355.53185
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.57469; the test average R^2-score is: 0.79
+The train average MSE is: 1.21333; the train average R^2-score is: 0.84
+The variance: 0.02048
+The bias is: 1.22828
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 727.63360; the test average R^2-score is: -97.26
+The train average MSE is: 945.95570; the train average R^2-score is: -121.31
+The variance: 835.98212
+The bias is: 87.59635
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.63595; the test average R^2-score is: 0.65
+The train average MSE is: 2.22327; the train average R^2-score is: 0.71
+The variance: 45010.54953
+The bias is: 11863464.77413
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1463.92322; the test average R^2-score is: -24.97
+The train average MSE is: 0.00000; the train average R^2-score is: 1.00
+The variance: 129.16179
+The bias is: 14.35131
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 752002035.17859; the test average R^2-score is: -3901761.97
+The train average MSE is: 5386477.37847; the train average R^2-score is: -10302.25
+The variance: 73470196.69174
+The bias is: 8171881.54668
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 1333.47325; the test average R^2-score is: -6.59
+The train average MSE is: 0.02146; the train average R^2-score is: 1.00
+The variance: 69074.50715
+The bias is: 8741826.94061
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1547.06875; the test average R^2-score is: -9.97
+The train average MSE is: 0.00000; the train average R^2-score is: 1.00
+The variance: 137.78484
+The bias is: 15.30943
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 163836911104.53250; the test average R^2-score is: -1172323162.70
+The train average MSE is: 830911172.48735; the train average R^2-score is: -1542590.09
+The variance: 15790520000.62313
+The bias is: 1751271731.30125
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 1272.05745; the test average R^2-score is: -6.28
+The train average MSE is: 0.01015; the train average R^2-score is: 1.00
+The variance: 199719.00209
+The bias is: 9178766.01987
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.45713; the test average R^2-score is: 0.71
+The train average MSE is: 0.95098; the train average R^2-score is: 0.82
+The variance: 0.03226
+The bias is: 0.96907
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 60.67462; the test average R^2-score is: -10.87
+The train average MSE is: 62.34440; the train average R^2-score is: -10.82
+The variance: 57.51277
+The bias is: 4.68971
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.08801; the test average R^2-score is: 0.57
+The train average MSE is: 1.60670; the train average R^2-score is: 0.69
+The variance: 25096.68047
+The bias is: 1504294.86193
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.59121; the test average R^2-score is: 0.79
+The train average MSE is: 1.21170; the train average R^2-score is: 0.84
+The variance: 0.02157
+The bias is: 1.22823
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 44.09685; the test average R^2-score is: -4.96
+The train average MSE is: 43.56190; the train average R^2-score is: -4.65
+The variance: 40.63497
+The bias is: 2.98304
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.60340; the test average R^2-score is: 0.65
+The train average MSE is: 2.22577; the train average R^2-score is: 0.71
+The variance: 86213.06173
+The bias is: 11671088.65381
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 1.60962; the test average R^2-score is: 0.78
+The train average MSE is: 1.21124; the train average R^2-score is: 0.84
+The variance: 0.02415
+The bias is: 1.22826
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 17.83225; the test average R^2-score is: -1.38
+The train average MSE is: 20.59092; the train average R^2-score is: -1.68
+The variance: 17.63218
+The bias is: 2.67497
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 2.59111; the test average R^2-score is: 0.65
+The train average MSE is: 2.22493; the train average R^2-score is: 0.71
+The variance: 38795.65699
+The bias is: 11856298.63994
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 4.49884; the test average R^2-score is: 0.12
+The train average MSE is: 4.47925; the train average R^2-score is: 0.13
+The variance: 0.00094
+The bias is: 4.48017
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 4.50462; the test average R^2-score is: 0.10
+The train average MSE is: 4.47964; the train average R^2-score is: 0.13
+The variance: 0.00133
+The bias is: 4.48101
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 4.49110; the test average R^2-score is: 0.12
+The train average MSE is: 4.48053; the train average R^2-score is: 0.13
+The variance: 769.00434
+The bias is: 4149.07839
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 0.48860; the test average R^2-score is: 0.09
+The train average MSE is: 0.48304; the train average R^2-score is: 0.23
+The variance: 0.00024
+The bias is: 0.48328
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 0.85156; the test average R^2-score is: -0.39
+The train average MSE is: 0.84311; the train average R^2-score is: -0.36
+The variance: 0.35774
+The bias is: 0.48621
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 0.53427; the test average R^2-score is: 0.14
+The train average MSE is: 0.53216; the train average R^2-score is: 0.15
+The variance: 1626.71981
+The bias is: 1478.60008
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 0.47451; the test average R^2-score is: 0.22
+The train average MSE is: 0.46475; the train average R^2-score is: 0.25
+The variance: 0.00056
+The bias is: 0.46521
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 0.88781; the test average R^2-score is: -0.77
+The train average MSE is: 0.88939; the train average R^2-score is: -0.40
+The variance: 0.38278
+The bias is: 0.50645
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 0.52934; the test average R^2-score is: 0.14
+The train average MSE is: 0.52067; the train average R^2-score is: 0.17
+The variance: 1637.94668
+The bias is: 2370.34682
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 0.47066; the test average R^2-score is: 0.24
+The train average MSE is: 0.45290; the train average R^2-score is: 0.27
+The variance: 0.00102
+The bias is: 0.45361
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 0.64314; the test average R^2-score is: -0.08
+The train average MSE is: 0.65532; the train average R^2-score is: -0.05
+The variance: 0.17787
+The bias is: 0.47623
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 0.51972; the test average R^2-score is: 0.15
+The train average MSE is: 0.50228; the train average R^2-score is: 0.19
+The variance: 659.10241
+The bias is: 2754.18451
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 0.45055; the test average R^2-score is: 0.26
+The train average MSE is: 0.38026; the train average R^2-score is: 0.39
+The variance: 0.00520
+The bias is: 0.38209
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 4.29614; the test average R^2-score is: -6.03
+The train average MSE is: 4.28759; the train average R^2-score is: -5.89
+The variance: 3.58465
+The bias is: 0.70376
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 0.48011; the test average R^2-score is: 0.20
+The train average MSE is: 0.40662; the train average R^2-score is: 0.35
+The variance: 1039.14236
+The bias is: 925.97362
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 0.45361; the test average R^2-score is: 0.23
+The train average MSE is: 0.38131; the train average R^2-score is: 0.39
+The variance: 0.00633
+The bias is: 0.38223
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 0.49773; the test average R^2-score is: 0.21
+The train average MSE is: 0.43457; the train average R^2-score is: 0.30
+The variance: 0.05168
+The bias is: 0.38921
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 0.47821; the test average R^2-score is: 0.20
+The train average MSE is: 0.40673; the train average R^2-score is: 0.35
+The variance: 326.48645
+The bias is: 938.49090
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 4.50343; the test average R^2-score is: 0.12
+The train average MSE is: 4.47893; the train average R^2-score is: 0.13
+The variance: 0.00125
+The bias is: 4.48017
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 4.49999; the test average R^2-score is: 0.12
+The train average MSE is: 4.47992; the train average R^2-score is: 0.13
+The variance: 0.00107
+The bias is: 4.48101
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 4.50211; the test average R^2-score is: 0.11
+The train average MSE is: 4.48022; the train average R^2-score is: 0.13
+The variance: 507.89681
+The bias is: 4171.73628
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 0.64269; the test average R^2-score is: 0.46
+The train average MSE is: 0.61385; the train average R^2-score is: 0.50
+The variance: 0.00226
+The bias is: 0.61447
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 761.85310; the test average R^2-score is: -576.85
+The train average MSE is: 744.86855; the train average R^2-score is: -615.14
+The variance: 612.91892
+The bias is: 133.65022
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 0.84196; the test average R^2-score is: 0.30
+The train average MSE is: 0.81370; the train average R^2-score is: 0.33
+The variance: 908.40883
+The bias is: 2321.11792
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 0.73585; the test average R^2-score is: 0.62
+The train average MSE is: 0.71412; the train average R^2-score is: 0.63
+The variance: 0.00136
+The bias is: 0.71493
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 39.12024; the test average R^2-score is: -19.09
+The train average MSE is: 39.36746; the train average R^2-score is: -19.46
+The variance: 38.32448
+The bias is: 1.01862
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 1.15647; the test average R^2-score is: 0.40
+The train average MSE is: 1.13071; the train average R^2-score is: 0.41
+The variance: 2131.97880
+The bias is: 276.65089
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 0.39757; the test average R^2-score is: 0.26
+The train average MSE is: 0.26632; the train average R^2-score is: 0.57
+The variance: 0.00847
+The bias is: 0.27100
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 0.47685; the test average R^2-score is: 0.18
+The train average MSE is: 0.36028; the train average R^2-score is: 0.42
+The variance: 0.09883
+The bias is: 0.27311
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 0.43068; the test average R^2-score is: 0.25
+The train average MSE is: 0.28680; the train average R^2-score is: 0.54
+The variance: 285.48921
+The bias is: 118.95882
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 3.15708; the test average R^2-score is: 0.38
+The train average MSE is: 2.64747; the train average R^2-score is: 0.48
+The variance: 0.06080
+The bias is: 2.63772
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 5.62572; the test average R^2-score is: -0.06
+The train average MSE is: 5.25010; the train average R^2-score is: -0.03
+The variance: 2.55312
+The bias is: 2.73450
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 3.38657; the test average R^2-score is: 0.31
+The train average MSE is: 2.90964; the train average R^2-score is: 0.43
+The variance: 4696.45797
+The bias is: 7235.94195
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 0.74511; the test average R^2-score is: 0.38
+The train average MSE is: 0.73564; the train average R^2-score is: 0.40
+The variance: 0.00048
+The bias is: 0.73612
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 4536.56057; the test average R^2-score is: -4495.56
+The train average MSE is: 4523.75566; the train average R^2-score is: -3639.07
+The variance: 4463.43423
+The bias is: 61.60424
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 0.91247; the test average R^2-score is: 0.24
+The train average MSE is: 0.90381; the train average R^2-score is: 0.26
+The variance: 1292.17938
+The bias is: 300.23331
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 0.64602; the test average R^2-score is: 0.46
+The train average MSE is: 0.63140; the train average R^2-score is: 0.48
+The variance: 0.00090
+The bias is: 0.63196
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 66348.57645; the test average R^2-score is: -49044.83
+The train average MSE is: 65770.45601; the train average R^2-score is: -54521.72
+The variance: 59297.80423
+The bias is: 6530.54302
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 0.87011; the test average R^2-score is: 0.28
+The train average MSE is: 0.85580; the train average R^2-score is: 0.30
+The variance: 2006.32883
+The bias is: 4332.24805
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 0.62550; the test average R^2-score is: 0.48
+The train average MSE is: 0.57365; the train average R^2-score is: 0.53
+The variance: 0.00877
+The bias is: 0.57008
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 126.58482; the test average R^2-score is: -102.44
+The train average MSE is: 134.76807; the train average R^2-score is: -109.47
+The variance: 132.17732
+The bias is: 1.77199
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 0.81690; the test average R^2-score is: 0.32
+The train average MSE is: 0.74850; the train average R^2-score is: 0.39
+The variance: 835.06740
+The bias is: 1175.02199
+##############################################
+Method used: OLS; Number of folds: 10
+The test average MSE is: 0.62690; the test average R^2-score is: 0.48
+The train average MSE is: 0.58075; the train average R^2-score is: 0.52
+The variance: 0.00538
+The bias is: 0.57999
+##############################################
+Method used: Ridge; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 931.55016; the test average R^2-score is: -737.00
+The train average MSE is: 918.16460; the train average R^2-score is: -755.86
+The variance: 870.29550
+The bias is: 49.20943
+##############################################
+Method used: Lasso; Number of folds: 10;Lambda: 0.000100
+The test average MSE is: 0.83022; the test average R^2-score is: 0.31
+The train average MSE is: 0.77407; the train average R^2-score is: 0.37
+The variance: 1389.42252
+The bias is: 780.36498
