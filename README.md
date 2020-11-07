@@ -5,4 +5,4 @@
 - Developed and optimised a prediction model that entailed the effects of a newly implemented drug.
 - Implemented a data visualisation tool for an introductory pharmaceutical programming course.
 
-Fitting pro
+Fitting process file: Behind the scenes data analysis and testing of the data. Not meant for a non-programmers eyes.
